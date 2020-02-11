@@ -1,0 +1,6 @@
+/Users/samcarroll/Projects/CardDeck/bin/Debug/CardDeck.exe
+/Users/samcarroll/Projects/CardDeck/bin/Debug/CardDeck.pdb
+/Users/samcarroll/Projects/CardDeck/obj/x86/Debug/CardDeck.csprojAssemblyReference.cache
+/Users/samcarroll/Projects/CardDeck/obj/x86/Debug/CardDeck.csproj.CoreCompileInputs.cache
+/Users/samcarroll/Projects/CardDeck/obj/x86/Debug/CardDeck.exe
+/Users/samcarroll/Projects/CardDeck/obj/x86/Debug/CardDeck.pdb

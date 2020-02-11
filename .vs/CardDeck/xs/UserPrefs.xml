@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{CE9197C9-FE82-4C29-9836-9B466517E770}|Default">
+  <MonoDevelop.Ide.ItemProperties.CardDeck PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/Card.cs">
+    <Files>
+      <File FileName="Program.cs" Line="25" Column="14" />
+      <File FileName="Properties/Card.cs" Line="19" Column="70" />
+      <File FileName="Properties/Deck.cs" Line="7" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
